@@ -1,0 +1,10 @@
+body{
+    background-color: black;
+    color: wheat;
+    text-align: center;
+    display: block;
+}
+input{
+    width: 50px;
+    border-radius: 5px;
+}
